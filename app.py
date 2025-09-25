@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="img")
 
 @app.route("/")
 def stop_harcelement():
@@ -57,7 +57,6 @@ def stop_harcelement():
                     Ce qui compte, c'est de rebondir !
                 </div>
                 <div class="image-section">
-                    <!-- Ajoute ici ton image -->
                     <img src="/img/adam.png" alt="Soutien à Adamous Bougamus">
                 </div>
                 <div class="support">
