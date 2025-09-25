@@ -57,7 +57,7 @@ def stop_harcelement():
                     Ce qui compte, c'est de rebondir !
                 </div>
                 <div class="image-section">
-                    <img src="/img/adam.png" alt="Soutien à Adamous Bougamus">
+                    <img src="https://f003.backblazeb2.com/file/smtcloud-pb/image.png" alt="Soutien à Adamous Bougamus">
                 </div>
                 <div class="support">
                     Soutiens aux adamous bougamus, merci 💙
