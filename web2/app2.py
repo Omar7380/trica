@@ -64,7 +64,8 @@ def stop_harcelement():
                     Venez au catasnack.<br>
                 </div>
                 <div class="image-section">
-                    <img src="/img/raw.png" alt="CATAGROS">
+                    <img src="https://i.postimg.cc/RCH7HT5g/raw.png" alt="CATAGROS">
+
                 </div>
                 <div class="support">
                     Samet Catasnack , merci 💙

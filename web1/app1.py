@@ -59,13 +59,14 @@ def stop_harcelement():
         <body>
             <div class="container">
                 <h2>Serveur 1</h2>
-                <h1>CATASNACK</h1>
+                <h1>ADAMOU BOUGAMOUS</h1>
                 <div class="message">
                     Ce n'est pas grave de finir 4ème.<br>
                     Ce qui compte, c'est de rebondir !
                 </div>
                 <div class="image-section">
-                    <img src="/img/adam.png" alt="Soutien à Adamous Bougamus">
+                    <img src="https://i.postimg.cc/J0ZjCR5L/adam.png" alt="Soutien à Adamous Bougamus" width="300">
+
                 </div>
                 <div class="support">
                     Soutiens aux adamous bougamus, merci 💙
